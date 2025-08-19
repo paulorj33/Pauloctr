@@ -1,7 +1,7 @@
 # 📂 Repositório de Portfólio - Paulo Cotrim  
 
 Bem-vindo ao meu repositório de portfólio!  
-Aqui compartilho projetos e estudos que refletem minha evolução na área de **tecnologia e dados**, destacando os conhecimentos adquiridos durante minha formação em **Análise e Desenvolvimento de Sistemas** e meus cursos complementares.  
+Aqui compartilho projetos e estudos que refletem minha evolução na área de **tecnologia e dados,** destacando os conhecimentos adquiridos durante minha formação em **Análise e Desenvolvimento de Sistemas** e meus cursos complementares.  
 
 ---
 
