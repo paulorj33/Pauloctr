@@ -40,4 +40,5 @@ Meu objetivo é crescer na área de **Dados**, atuando com **Business Intelligen
 **Paulo César de Azevedo Silva Cotrim**  
 
 - LinkedIn: [Seu Perfil](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
-- GitHub: [Seu Usuário](https://github.com/)  
+- GitHub: [Seu Usuário](https://github.com/paulorj33)
+- )  
