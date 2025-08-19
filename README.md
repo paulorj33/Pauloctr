@@ -38,7 +38,7 @@ Durante o desenvolvimento desses projetos, pude aprender e praticar:
 
 
 ## 🎯 Objetivo Profissional
-Meu objetivo é me desenvolver como **profissional de dados**, aplicando ferramentas modernas para:  
+Meu objetivo é me desenvolver como **profissional de dados,** aplicando ferramentas modernas para:  
 - Apoiar a **tomada de decisão estratégica** em empresas;  
 - Contribuir com análises mais completas e visuais claros;  
 - Evoluir para cargos de **Analista de Dados** e futuramente **Engenheiro de Dados**.  
