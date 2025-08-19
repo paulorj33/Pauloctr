@@ -48,5 +48,5 @@ Meu objetivo é me desenvolver como **profissional de dados,** aplicando ferrame
 ## 👨‍💻 Autor
 **Paulo César de Azevedo Silva Cotrim**  
 
-- LinkedIn: [Seu Perfil](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
-- GitHub: [Seu Usuário](https://github.com/paulorj33)
+• [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+• [GitHub](https://github.com/paulorj33)
