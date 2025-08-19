@@ -1,38 +1,47 @@
-💻 Portfólio - Paulo César de Azevedo Silva Cotrim
+# 📂 Repositório de Portfólio - Paulo Cotrim  
 
-Bem-vindo ao meu portfólio no GitHub!  
-Aqui compartilho projetos, estudos e aplicações que refletem minhas experiências em **tecnologias voltadas para dados e desenvolvimento de sistemas**.  
-
----
-
-## 📖 Sobre Mim
-Sou estudante de **Análise e Desenvolvimento de Sistemas** pela Faculdade Cruzeiro do Sul, com interesse especial em **ciência de dados, análise e visualização de informações**.  
-Busco constantemente aprimorar minhas habilidades técnicas para atuar na área de **dados** e contribuir em projetos que envolvam inteligência analítica e tomada de decisão baseada em informações.  
+Bem-vindo ao meu repositório de portfólio!  
+Aqui compartilho projetos e estudos que refletem minha evolução na área de **tecnologia e dados**, destacando os conhecimentos adquiridos durante minha formação em **Análise e Desenvolvimento de Sistemas** e meus cursos complementares.  
 
 ---
 
-## 🛠 Tecnologias & Ferramentas
-Ao longo da minha trajetória, venho estudando e aplicando as seguintes tecnologias:
-
-- **Power BI** → Criação de dashboards interativos e relatórios analíticos.  
-- **Pacote Office Avançado** (Excel, Word, PowerPoint) → Foco em análise e organização de dados.  
-- **Python (em aprendizado)** → Estruturação de dados e análises básicas.  
-- **SQL (em aprendizado)** → Consultas para extração e manipulação de dados.  
-- **Git & GitHub** → Controle de versão e colaboração em projetos.  
+## 📖 Objetivo do Repositório
+Este repositório tem como propósito central:  
+- Apresentar **projetos práticos** que desenvolvi ou estou desenvolvendo;  
+- Consolidar o que aprendi em cursos e na faculdade;  
+- Demonstrar minha evolução no uso de tecnologias voltadas para **análise de dados e desenvolvimento de sistemas**;  
+- Servir como portfólio para oportunidades profissionais na área de **Dados**.  
 
 ---
 
-## 📊 Projetos em Destaque
-*(Aqui você pode inserir links para seus repositórios, por exemplo:)*  
+## 🛠 Tecnologias Utilizadas
+Nos projetos aqui incluídos, você encontrará o uso de ferramentas como:  
 
-- [📌 Dashboard de Vendas com Power BI](https://github.com/)  
-- [📌 Análise de Dados com Python](https://github.com/)  
-- [📌 Automação de Relatórios com Excel VBA](https://github.com/)  
+- **Power BI** → Criação de dashboards e relatórios dinâmicos;  
+- **Excel & VBA (Pacote Office)** → Estruturação, organização e análise de dados;  
+- **Python (em aprendizado)** → Manipulação de dados, análises e automação de tarefas;  
+- **SQL (em aprendizado)** → Consultas para extração e tratamento de dados;  
+- **Git & GitHub** → Controle de versão e publicação de projetos.  
 
 ---
+
+## 📚 O que Aprendi
+Durante o desenvolvimento desses projetos, pude aprender e praticar:  
+
+- Como transformar dados brutos em **insights visuais** através de dashboards;  
+- A importância da **organização e limpeza de dados** antes da análise;  
+- Fundamentos de **programação com Python** voltados para manipulação de dados;  
+- Noções de **consultas SQL** para extração de informações;  
+- Uso do **Git/GitHub** como ferramenta de versionamento e compartilhamento.  
+
+---
+
 
 ## 🎯 Objetivo Profissional
-Meu objetivo é crescer na área de **Dados**, atuando com **Business Intelligence, Análise de Dados e Engenharia de Dados**, aplicando ferramentas modernas para transformar informações em valor estratégico.  
+Meu objetivo é me desenvolver como **profissional de dados**, aplicando ferramentas modernas para:  
+- Apoiar a **tomada de decisão estratégica** em empresas;  
+- Contribuir com análises mais completas e visuais claros;  
+- Evoluir para cargos de **Analista de Dados** e futuramente **Engenheiro de Dados**.  
 
 ---
 
