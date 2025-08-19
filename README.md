@@ -41,4 +41,3 @@ Meu objetivo é crescer na área de **Dados**, atuando com **Business Intelligen
 
 - LinkedIn: [Seu Perfil](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 - GitHub: [Seu Usuário](https://github.com/paulorj33)
-- )  
